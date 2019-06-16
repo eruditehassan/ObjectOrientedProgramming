@@ -1,0 +1,12 @@
+11
+AAMNA SAROSH aamna@seecs.edu.pk	123
+ABDUL BASIT abdul@seecs.edu.pk 456
+ABDULLAH KHAN abdullah@seecs.edu.pk 789
+AHMAD BILAL ahmad@seecs.edu.pk 101
+ALI ATHER ali.ather@seecs.edu.pk 204
+ALI CHISHTI ali.chishti@seecs.edu.pk 567
+ALI KHAN ali.khan@seecs.edu.pk 970
+AMNA HASSAN amna@seecs.edu.pk 212
+ARWAH MUHAMMAD arwah@seecs.edu.pk 698
+ASFAND SHAKEEL asfand@seecs.edu.pk 618
+DAUD NASIR daud@seecs.edu.pk 236
